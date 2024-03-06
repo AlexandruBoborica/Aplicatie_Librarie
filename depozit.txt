@@ -1,0 +1,55 @@
+9
+25.60
+Ghidul pariorului
+Ilie Dumitrescu
+Business
+35
+1
+30
+Moara cu noroc
+Ioan Slavici
+Actiune
+400
+4
+19.50
+Legiunea
+Markus Rasfhord
+Actiune
+0
+3
+50
+Floarea Maro
+Ioan Slavici
+Drama
+10
+5
+10
+Shogunul
+James Clavell
+Istorie
+13
+5
+25.99
+Lupul de mare
+Conan Meriot
+Aventura
+5
+5
+15
+Jumatate de rege
+Joe Abercrombie
+Aventura
+5
+4
+20
+Jumatate de razboi
+Joe Abercrombie
+Aventura
+3
+3
+70
+Moby Dick
+Charles Dickens
+Aventura
+9
+4
